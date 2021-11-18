@@ -24,4 +24,4 @@ console.log('Password ' + password);
 
 
 document.getElementById('password_in_sicura').innerHTML = password;
-console.log('Password ' + password)
+console.log('Password ' + password);
