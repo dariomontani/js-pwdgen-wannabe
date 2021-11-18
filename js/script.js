@@ -11,3 +11,9 @@ console.log(nomeUtente);
 // chiedo all'utente il suo cognome
 let cognomeUtente = prompt('Inserisci qui il tuo Cognome');
 console.log(cognomeUtente);
+
+// chiedo all'utente il suo colore preferito
+let colorePreferito = prompt('Inserisci qui il tuo Colore Preferito;');
+console.log(colorePreferito);
+
+// mostro all'utente i dati che ha inserito + 21
