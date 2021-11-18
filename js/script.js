@@ -6,4 +6,8 @@
 
 // chiedo all'utente il suo nome
 let nomeUtente = prompt('Inserisci il tuo Nome');
-console.log(nomeUtente)
+console.log(nomeUtente);
+
+// chiedo all'utente il suo cognome
+let cognomeUtente = prompt('Inserisci qui il tuo Cognome');
+console.log(cognomeUtente);
